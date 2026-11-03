@@ -3,22 +3,26 @@
 
 // Renvoie un NOUVEAU tableau avec les opérations de cette parcelle (éventuellement vide).
 export function filtrerParParcelle(operations, parcelle) {
-  throw new Error('TODO : coder filtrerParParcelle dans src/recherche.js');
+  return operations.filter((operation) => operation.parcelle === parcelle);
 }
 
 // Renvoie un NOUVEAU tableau avec les opérations de cette culture (éventuellement vide).
 export function filtrerParCulture(operations, culture) {
-  throw new Error('TODO : coder filtrerParCulture dans src/recherche.js');
+  return operations.filter((operation) => operation.culture === culture);
 }
 
 // Renvoie une COPIE triée par coût croissant, avec un comparateur numérique.
 // Deux opérations de même coût gardent leur ordre d'origine. Le tableau reçu ne doit pas changer d'ordre.
 export function trierParCout(operations) {
-  throw new Error('TODO : coder trierParCout dans src/recherche.js');
+  return [...operations].sort(
+    (operationA, operationB) => operationA.coutFCFA - operationB.coutFCFA,
+  );
 }
 
 // Renvoie une COPIE triée par date, de la plus ancienne à la plus récente.
 // Deux opérations de même date gardent leur ordre d'origine. Le tableau reçu ne doit pas changer d'ordre.
 export function trierParDate(operations) {
-  throw new Error('TODO : coder trierParDate dans src/recherche.js');
+  return [...operations].sort(
+    (operationA, operationB) => operationA.date.localeCompare(operationB.date),
+  );
 }
