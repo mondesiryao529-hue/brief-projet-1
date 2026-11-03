@@ -20,4 +20,4 @@ Le total des coûts ne permet pas de dire si une exploitation est rentable car i
 Rentabilité = Produits - Coûts   
 
 
-Sources : Fiche de référence, Google · Relu par le coach le : 2026-11-03
+Sources : Fiche de référence, Google.com · Relu par le coach le : 2026-11-03
