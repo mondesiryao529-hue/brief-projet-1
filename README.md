@@ -61,6 +61,7 @@ Sous PowerShell, si `npm` est bloqué : `npm.cmd test`.
 
 ## Auteur
 
-✏️ *Prénom NOM, compte GitHub. Entraide : avec qui, sur quoi.*
 Prénoms : YEBOUAH JEAN CLAUDE MONDESIR
-Nom: YAO
+Nom : YAO
+Compte Github: mondesiryao529-hue
+Entraide: avec qui, sur quoi
