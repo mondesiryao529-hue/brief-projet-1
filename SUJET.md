@@ -121,4 +121,4 @@ Le coût est une **dépense** : sans les revenus, on ne peut pas parler de renta
 
 - le code, avec tous les tests du socle au vert (seuls ceux du bonus peuvent rester rouges) ;
 - `README.md` complété ;
-- dans `docs/` : dictionnaire des données, tableau des tâches, relevé des tests, journal de recherche, fiche agronomique (une page), fiche individuelle.
+- dans `docs` : dictionnaire des données, tableau des tâches, relevé des tests, journal de recherche, fiche agronomique (une page), fiche individuelle.
