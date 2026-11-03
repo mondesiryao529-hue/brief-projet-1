@@ -7,10 +7,11 @@
 
 | Opération (identifiant) | Étape du cycle | Ce qu'on vérifie sur la parcelle à cette étape |
 | --- | --- | --- |
-| Semis (O1201) | Point de départ | Texture, état, humidité et température du sol |
-| Arrosage (O1202) | Croissance végétative | Développement, vigueur, état nutritionnel, état sanitaire de la plante |
-| Désherbage (O1203)| Fructification | Charge et qualité des fruits ou grains|
-| Récolte (O1204)| Maturité| Maturité et qualité du produit |
+| Semis (O01) | Point de départ | Texture, état, humidité et température du sol |
+| Repiquage (O02) | fin-pépinière | Etat et préparation du sol, piquetage et densité de la plantation, conditions environnementales et application d'engrais (si possible) |
+| Arrosage (O03) | Croissance végétative | Développement, vigueur, état nutritionnel, état sanitaire de la plante |
+| Désherbage (O04)| Fructification | Charge et qualité des fruits ou grains|
+| Récolte (O05)| Maturité| Qualité et maturité du produit |
 
 **Une donnée manquante** (revenus, quantité récoltée, surface, eau apportée…) et ce qu'on ne peut donc pas conclure : 
 -Le volume d'eau utilisé
