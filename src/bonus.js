@@ -63,15 +63,15 @@ export function modifierOperation(operations, id, champ, valeur) {
   return [];
 }
 
-// Renvoie une COPIE triée par coût décroissant : la plus chère d'abord.
+// Renvoie une copie triée par coût décroissant : la plus chère d'abord.
 export function trierParCoutDecroissant(operations) {
-   return [...operations].sort(
+  return [...operations].sort(
     (operationA, operationB) => operationB.coutFCFA - operationA.coutFCFA,
   );
 }
 
-// Renvoie la parcelle dont le total des coûts est le plus élevé : { parcelle, total },
-// ou null si le registre est vide. En cas d'égalité : la première parcelle rencontrée.
+// Renvoie la parcelle ayant le total des coûts le plus élevé,
+// ou null si le registre est vide. En cas d'égalité, garde la première rencontrée.
 export function parcelleLaPlusCouteuse(operations) {
   if (operations.length === 0) {
     return null;

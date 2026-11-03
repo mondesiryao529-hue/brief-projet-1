@@ -4,21 +4,21 @@
 
 ## Contexte
 
-1-Le registre des opérations maraîchères est utilisé par les producteurs, les chefs d’exploitation, les techniciens, les agronomistes, les coopératives et les chercheurs.
+1-Le registre des opérations maraîchères est utilisé par les producteurs, les chefs d’exploitation, les techniciens, les agronomistes, les coopératives et les chercheurs;
 
-2-Il sert principalement à documenter chaque opération agricole pour faciliter l’analyse technique et économique des cultures.
+2-Il sert principalement à documenter chaque opération agricole pour faciliter l’analyse technique et économique des cultures;
 
-3-On y saisit l’identifiant de l’opération, la date, le lieu, le type d’intervention, la culture, la parcelle, les détails techniques, les coûts et les observations.
+3-On y saisit l’identifiant de l’opération, la date, le lieu, le type d’intervention, la culture, la parcelle, les détails techniques, les coûts et les observations;
 
-4-Le registre affiche le total des coûts, les coûts minimum et maximum, ainsi que les totaux par parcelle ou par culture.
+4-Le registre affiche le total des coûts, les coûts minimum et maximum, ainsi que les totaux par parcelle ou par culture;
 
-5-Il permet aussi de trier les opérations par date ou par coût et de filtrer par type d’intervention.
+5-Il permet aussi de trier les opérations par date ou par coût et de filtrer par type d’intervention;
 
-6-Certaines versions offrent la recherche par identifiant, parcelle ou culture et l’affichage de références agronomiques.
+6-Certaines versions offrent la recherche par identifiant, parcelle ou culture et l’affichage de références agronomiques;
 
-7-En revanche, le registre n’affiche pas les revenus, les bénéfices, les marges ni les données nécessaires pour calculer la rentabilité.
+7-En revanche, le registre n’affiche pas les revenus, les bénéfices, les marges ni les données nécessaires pour calculer la rentabilité;
 
-8-Il ne fournit pas non plus les quantités récoltées, les surfaces exploitées, les volumes d’eau ou des conseils agronomiques, et certaines versions limitent la modification ou la suppression des opérations
+8-Il ne fournit pas non plus les quantités récoltées, les surfaces exploitées, les volumes d’eau ou des conseils agronomiques, et certaines versions limitent la modification ou la suppression des opérations.
 
 ## Prérequis et lancement
 
