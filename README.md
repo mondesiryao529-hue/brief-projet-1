@@ -64,4 +64,9 @@ Sous PowerShell, si `npm` est bloqué : `npm.cmd test`.
 Prénoms : YEBOUAH JEAN CLAUDE MONDESIR
 Nom : YAO
 Compte Github: mondesiryao529-hue
-Entraide: avec qui, sur quoi
+Entraide:
+-Avec Liadé Marc Henoc Ebenezer pour des explicatons sur l'écriture de tout le menu dans app.js et sur le codage dans les fichiers stockage.js et  et bonus.js;
+-Avec Harouna Bamba  pour des explicatons sur le codage dans les fichiers registre.js et recherche.js;
+-Avec Kakeu Zran Bruce  pour des explicatons sur le codage dans les fichiers synthese.js et saisie.js;
+-Avec Tiemoko Marie Carmelle pour des explicatons sur le codage dans le fichier outils.js;
+-Avec l'Intelligence Artificielle à toutes les étapes de mon projet pour vérifier l'authenticité du code. 
