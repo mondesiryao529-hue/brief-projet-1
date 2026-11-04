@@ -3,7 +3,7 @@
 > Écrivez le résultat attendu avant d'essayer. Un écart n'est pas une faute : notez-le, corrigez, refaites le test.
 
 **Calculs à la main** : refaites à la main les résultats de référence de `SUJET.md`, puis comparez avec votre programme. ✏️
-- Total des coûts : 3000 + 4500 + 2000 + 5000 + 1500 + 8000 + 4000 + 3500 + 2500 + 6000 = 40000 FCFA ;
+- 0Total des coûts : 3000 + 4500 + 2000 + 5000 + 1500 + 8000 + 4000 + 3500 + 2500 + 6000 = 40000 FCFA ;
 - Coût minimum : 1500 FCFA ;
 - Coût maximum : 8000 FCFA ;
 - Parcelle P1 : nombre d'opérations = 4 et  coût total = 3000 + 2000 + 8000 + 2500 = 15500 FCFA

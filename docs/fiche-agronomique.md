@@ -14,10 +14,10 @@
 | Récolte (O05)| Maturité| Qualité et maturité du produit |
 
 **Une donnée manquante** (revenus, quantité récoltée, surface, eau apportée…) et ce qu'on ne peut donc pas conclure : 
--Le volume d'eau utilisé
+- Le volume d'eau utilisé
 On ne peut pas conclure sur la quantité d'eau absorbée par les plantes.
 **Pourquoi le total des coûts ne dit-il pas si l'exploitation est rentable ?**
-Le total des coûts ne permet pas de dire si une exploitation est rentable car il ne représente qu'une partie du bilan financier d'une exploitation. Le total des coûts ne prend pas en compte le total des produits.
+- Le total des coûts ne permet pas de dire si une exploitation est rentable car il ne représente qu'une partie du bilan financier d'une exploitation. Le total des coûts ne prend pas en compte le total des produits.
 Rentabilité = Produits - Coûts   
 
 
