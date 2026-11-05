@@ -37,20 +37,26 @@ Sous PowerShell, si `npm` est bloqué : `npm.cmd test`.
 
 ✏️ *Cochez seulement ce qui marche : `- [x]`.*
 
-- [ ] Données lues et enregistrées dans `donnees/operations.json`
-- [ ] Ajouter une opération, saisies invalides refusées sans arrêter le programme
+- [x] Données lues et enregistrées dans `donnees/operations.json`
+- [x] Ajouter une opération, saisies invalides refusées sans arrêter le programme
 - [ ] Lister les opérations, message si le registre est vide
-- [ ] Rechercher par identifiant ou par parcelle ; filtrer par culture
-- [ ] Trier par coût ou par date
-- [ ] Synthèse : total, nombre et total par parcelle, coût minimum et maximum
-- [ ] Bonus : supprimer et modifier une opération (choix 6 et 7)
-- [ ] Bonus : tri par coût décroissant, parcelle la plus coûteuse
+- [x] Rechercher par identifiant ou par parcelle ; filtrer par culture
+- [x] Trier par coût ou par date
+- [x] Synthèse : total, nombre et total par parcelle, coût minimum et maximum
+- [x] Bonus : supprimer et modifier une opération (choix 6 et 7)
+- [x] Bonus : tri par coût décroissant, parcelle la plus coûteuse
 
 ## Données
 
-✏️ *Le fichier, le nombre d'opérations, les champs (voir [docs/dictionnaire-donnees.md](docs/dictionnaire-donnees.md)), les unités. Rappelez qu'elles sont fictives.*
+- Le fichier: operations.json;
+- Le nombre d'opérations: 4;
+- Les champs: id, date, parcelle, culture, operation, coutFCFA;
+- Les unités: Aucune, FCFA;
+
+Note: Les données contenues dans le fichier operation.js sont des données fictives.
 
 ## Limites
+
 1-Le registre des opérations maraîchères ne fournit pas de conseils de culture;
 2-Le registre des opérations maraîchères ne fournit pas des mesures de performance agronomique;
 3-Le registre des opérations maraîchères n’affiche pas des données financières complètes (affiche les dépenses mais pas les revenus).
@@ -61,12 +67,18 @@ Sous PowerShell, si `npm` est bloqué : `npm.cmd test`.
 
 ## Auteur
 
-Prénoms : YEBOUAH JEAN CLAUDE MONDESIR
-Nom : YAO
-Compte Github: mondesiryao529-hue
-Entraide:
--Avec Liadé Marc Henoc Ebenezer pour des explicatons sur l'écriture de tout le menu dans app.js et sur le codage dans les fichiers stockage.js et bonus.js;
--Avec Harouna Bamba  pour des explicatons sur le codage dans les fichiers registre.js et recherche.js;
--Avec Kakeu Zran Bruce  pour des explicatons sur le codage dans les fichiers synthese.js et saisie.js;
--Avec Tiemoko Marie Carmelle pour des explicatons sur le codage dans le fichier outils.js;
--Avec l'Intelligence Artificielle à toutes les étapes de mon projet pour vérifier l'authenticité du code. 
+- Prénoms : YEBOUAH JEAN CLAUDE MONDESIR;
+- Nom : YAO;
+- Compte Github: mondesiryao529-hue;
+
+- Entraide:
+
+Liadé Marc Henoc Ebenezer : pour des explicatons sur l'écriture de tout le menu dans app.js et sur le codage dans les fichiers stockage.js et bonus.js;
+
+Harouna Bamba :  pour des séances de coaching entre condisciples et des explicatons sur le codage dans les fichiers registre.js et recherche.js;
+
+Kakeu Zran Bruce :  pour des explicatons sur le codage dans les fichiers synthese.js et saisie.js;
+
+Tiemoko Marie Carmelle : pour des explicatons sur le codage dans le fichier outils.js;
+
+l'Intelligence Artificielle (chat GPT) : pour vérifier l'authenticité des lignes de code à toutes les étapes du projet. 

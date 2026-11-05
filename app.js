@@ -7,13 +7,7 @@ import { chargerJson, enregistrerJson } from './src/stockage.js';
 import { OPERATIONS, ajouterOperation, formaterOperation, listerOperations, trouverParId } from './src/registre.js';
 import { filtrerParCulture, filtrerParParcelle, trierParCout, trierParDate } from './src/recherche.js';
 import { coutMinMax, syntheseParParcelle, totalCouts } from './src/synthese.js';
-import {
-  CHAMPS_MODIFIABLES,
-  modifierOperation,
-  parcelleLaPlusCouteuse,
-  supprimerOperation,
-  trierParCoutDecroissant,
-} from './src/bonus.js';
+import { CHAMPS_MODIFIABLES, modifierOperation, parcelleLaPlusCouteuse, supprimerOperation, trierParCoutDecroissant,} from './src/bonus.js';
 
 const FICHIER_DONNEES = 'donnees/operations.json';
 
@@ -117,10 +111,7 @@ async function main() {
                 break;
               }
               const operation = trouverParId(operations, id);
-              console.log(
-                operation
-                  ? formaterOperation(operation)
-                  : 'Aucune opération trouvée.',
+              console.log(operation ? formaterOperation(operation): 'Aucune opération trouvée.',
               );
             } else if (critere === 'parcelle') {
               const parcelle = await demander('Parcelle : ');

@@ -29,7 +29,7 @@ nos résultats:
 - Parcelle P2 : nombre d'opérations = 3 et  coût total = 4500 + 1500 + 3500 = 9500 FCFA;
 - Parcelle P3 : nombre d'opérations = 3 et  coût total = 5000 + 4000 + 6000 = 15000 FCFA;
 
-Après analyse et comparaison de nos résultats avec ceux du programme, nous sommes arrivés à la conclusion suivante:
+CONCLUSION : Après analyse et comparaison de nos résultats avec ceux du programme, nous sommes arrivés à la conclusion suivante:
 Nos résultats sont identiques aux résultats de la machine.
 
 **Essais dans le menu** : un ajout valide (encore là après redémarrage), chaque règle refusée, une recherche introuvable, chaque tri, la synthèse, un choix inconnu.
