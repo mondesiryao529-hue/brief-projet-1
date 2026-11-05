@@ -35,15 +35,30 @@ Nos résultats sont identiques aux résultats de la machine.
 **Essais dans le menu** : un ajout valide (encore là après redémarrage), chaque règle refusée, une recherche introuvable, chaque tri, la synthèse, un choix inconnu.
 
 | Action | Attendu | Obtenu | Testeur |
-| Une expérience pour lire un test rouge dans `src/outils.js` | True | False | npm run test:outls |
-| `git clone` sur le PC d'un condisciple | | | Github de mon condiscple: harouna03081999-svg |
-| ✏️ | | | |
-| ✏️ | | | |
-| ✏️ | | | |
-| ✏️ | | | |
+
+|1-Ajouter une opération  | Opération ajoutée | Opération ajoutée | Harouna Bamba |
+
+|2-lister les opérations  | Tableau des opérations affichée | Tableau des opérations affichée | Harouna Bamba |
+
+|3-Rechercher (identifiant, parcelle, culture) | Tableau (identifiant, parcelle, culture) affché |  Tableau (identifiant, parcelle, culture) affché  | Harouna Bamba |
+
+|4-Trier (coût, date) | Tableau de triage par (coût, date) affiché  | Tableau de triage par (coût, date) affiché | Harouna Bamba |
+
+|5- Synthèse des dépenses | Tableau de synthèse des dépenses affiché | Tableau de synthèse des dépenses affiché  | Harouna Bamba |
+
+|6-Supprimer une opération  | opération supprimée | opération supprimée  | Harouna Bamba |
+
+|7-Modifier une opération | Opération modifiée | Opération modifiée | Harouna Bamba |
+
+|8- Trier par coût décroissant | Tableau de triage par coût décroissant affiché | Tableau de triage par coût décroissant affiché | Harouna Bamba |
+
+|9. Afficher la parcelle la plus coûteuse| Parcelle la plus coûteuse : P1 — 15500 FCFA|Parcelle la plus coûteuse : P1 — 15500 FCFA |Harouna Bamba|
 
 **Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : 
 
-`git clone`:  Github de mon condiscple = harouna03081999-svg 
-`node app.js`: Github de mon condiscple = harouna03081999-svg 
-`npm test`: Github de mon condiscple = harouna03081999-svg 
+`git clone`:  
+Github de mon condiscple: harouna03081999-svg (https://github.com/harouna03081999-svg/brief-1-registre-maraicher.git)
+`node app.js`:
+ Github de mon condiscple = harouna03081999-svg (https://github.com/harouna03081999-svg/brief-1-registre-maraicher.git)
+`npm test`:
+ Github de mon condiscple = harouna03081999-svg (https://github.com/harouna03081999-svg/brief-1-registre-maraicher.git)
