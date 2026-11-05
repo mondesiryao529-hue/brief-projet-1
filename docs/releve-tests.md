@@ -36,11 +36,14 @@ Nos résultats sont identiques aux résultats de la machine.
 
 | Action | Attendu | Obtenu | Testeur |
 | Une expérience pour lire un test rouge dans `src/outils.js` | True | False | npm run test:outls |
-| `git clone` sur le PC d'un condisciple | | | `node app.js`|
-| `git clone` sur le PC d'un condisciple| | | `npm test`|
+| `git clone` sur le PC d'un condisciple | | | Github de mon condiscple: harouna03081999-svg |
 | ✏️ | | | |
 | ✏️ | | | |
 | ✏️ | | | |
 | ✏️ | | | |
 
-**Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : ✏️
+**Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : 
+
+`git clone`:  Github de mon condiscple = harouna03081999-svg 
+`node app.js`: Github de mon condiscple = harouna03081999-svg 
+`npm test`: Github de mon condiscple = harouna03081999-svg 
