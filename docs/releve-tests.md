@@ -52,7 +52,9 @@ Nos résultats sont identiques aux résultats de la machine.
 
 |8- Trier par coût décroissant | Tableau de triage par coût décroissant affiché | Tableau de triage par coût décroissant affiché | Harouna Bamba |
 
-|9. Afficher la parcelle la plus coûteuse| Parcelle la plus coûteuse : P1 — 15500 FCFA|Parcelle la plus coûteuse : P1 — 15500 FCFA |Harouna Bamba|
+|9. Afficher la parcelle la plus coûteuse| Parcelle la plus coûteuse : P1 — 15500 FCFA|Parcelle la plus coûteuse : P1 — 15500 FCFA | Harouna Bamba |
+
+|0. Quitter| Au revoir !|Au revoir ! | Harouna Bamba |
 
 **Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : 
 

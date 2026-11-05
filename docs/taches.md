@@ -12,7 +12,7 @@
 | Tests par un camarade ; mes propres tests | 2026-11-04| 2026-11-05 | git clone avec le Github de mon condisciple (harouna03081999-svg), node app.js |
 | Fiche agronomique ; |2026-11-02 | 2026-11-03 |Commit ed23127 (https://github.com/mondesiryao529-hue/brief-projet-1/commit/ed23127f27e14896822a90306691614fae3f0a66) |
 | README; |2026-11-02 |2026-11-03 |Commit a0293cb (https://github.com/mondesiryao529-hue/brief-projet-1/commit/a0293cbbe4b34b71d0fdacb467315cd2e9336909) |
-| Dépôt cloné et lancé ailleurs ; démonstration répétée | 2026-11-04 | 2026-11-05 || Github de mon condiscple: harouna03081999-svg |
+| Dépôt cloné et lancé ailleurs ; démonstration répétée | 2026-11-04 | 2026-11-05 | Github de mon condiscple: harouna03081999-svg |
 | Bonus | 2026-11-02 |2026-11-03 |Commit eb4b590(https://github.com/mondesiryao529-hue/brief-projet-1/commit/eb4b5902d77bcd6f3936bfa119dd7e422330eed2) |
 
 **Blocages** (le message exact, ce que j'ai essayé, la solution) : 

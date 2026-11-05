@@ -72,6 +72,6 @@ l'Intelligence Artificielle (chat GPT) : pour vérifier l'authenticité des lign
 
 - Qui j'ai aidé ?
 
-Harouna Bamba : pour le lancement de l'app.js et le codage dans le fichier bonus.js;
+Harouna Bamba : pour le lancement de l'app.js, le codage dans le fichier bonus.js et la conception du fichier power point;
 
 Kakeu Zran Bruce :  pour le lancement de l'app.js et le codage dans le fichier bonus.js.
