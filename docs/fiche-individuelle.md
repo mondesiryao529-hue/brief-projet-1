@@ -8,7 +8,7 @@
  
 1. **Une fonction que j'ai écrite**, et comment elle marche :  
 
-le cas .join(', ')
+la focntion: .join(', ')
 
 .join(', ') est une fonction essentielle en programmation qui sert à transformer un tableau d'éléments en une seule chaîne de caractères, en insérant une virgule et un espace entre chaque élément.
 
@@ -24,7 +24,37 @@ console.log(listeTexte);
 
 2. **Une difficulté, et sa solution** : 
 
+Difficulté: 
+Quelle est la différence entre json.parse et json.stringify?
 
+Solution:
+En JavaScript, json.parse et json.stringify font exactement l'inverse l'un de l'autre. json.parse transforme du texte en code tandis que json.stringify transforme du code en texte 
+
+Exemple: cas json.parse
+
+/ 1. Une chaîne de caractères reçue (du texte brut)
+const texteRecu = '{"nom":"Bob","age":35,"ville":"Paris"}';
+
+// 2. Transformation en vrai objet JavaScript manipulable
+const objetUtilisateur = JSON.parse(texteRecu);
+
+console.log(objetUtilisateur.nom); 
+// Résultat : "Bob"
+
+Exemple: cas json.stringify
+
+// 1. Un objet JavaScript classique
+const utilisateur = {
+    nom: "Alice",
+    age: 28,
+    estActif: true
+};
+
+// 2. Transformation en chaîne de caractères JSON
+const versionTexte = JSON.stringify(utilisateur);
+
+console.log(versionTexte);
+// Résultat : '{"nom":"Alice","age":28,"estActif":true}'
 
 3. **L'entraide** (qui m'a aidé, qui j'ai aidé, sur quoi) : 
 
